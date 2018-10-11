@@ -11,7 +11,7 @@ visual studio themes
 ![Advanced highlighting](ScreenShots/Advanced%20highlighting.png)
 
 #### XML 
-![XML](ScreenShots/zml.png)
+![XML](ScreenShots/xml.png)
 
 #### HTML / ASP
 ![HTML/ASP](ScreenShots/HTML_ASP.png)
