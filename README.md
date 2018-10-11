@@ -1,5 +1,5 @@
 # Areej
-visual studio themes
+visual studio theme
 based on Mariana theme
 
 #### C# 
@@ -22,3 +22,5 @@ based on Mariana theme
 
 #### C++
 ![C++](ScreenShots/Cplusplus.png)
+
+[Download from studio styles](https://studiostyl.es/schemes/areej)
