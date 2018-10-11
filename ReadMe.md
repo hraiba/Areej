@@ -1,2 +1,2 @@
 ScreenShots Example
-![Alt text](c#.png?raw=true "Optional Title")
+![C#](c#.png?raw=true "C#")
