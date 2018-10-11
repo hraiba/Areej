@@ -1,5 +1,6 @@
 # Areej
 visual studio themes
+based on Mariana theme
 
 #### C# 
 ![C#](ScreenShots/c%23.png)
